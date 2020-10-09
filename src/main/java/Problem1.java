@@ -1,5 +1,3 @@
-
-
 public class Problem1 {
 
     // Do not change signature (function name, parameters)
@@ -12,4 +10,3 @@ public class Problem1 {
         return -1;
     }
 }
-
